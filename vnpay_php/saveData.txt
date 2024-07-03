@@ -1,0 +1,8 @@
+vnp_TmnCode
+vnp_Amount
+vnp_BankCode
+vnp_PayDate
+vnp_OrderInfo
+vnp_TransactionNo
+vnp_ResponseCode
+vnp_TransactionStatus

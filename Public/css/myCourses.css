@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* header */
+#header{
+    height: 4rem;
+    border-bottom: 1px solid #e8ebed;
+    left: 0;
+    position: sticky;
+    right: 0;
+    top: 0;
+    z-index: 20;
+    background-color: #ffffff;
+}
+
+.logoHeading{
+    color: #000;
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-left: 16px;
+    margin-bottom: 0;
+}
+
+.logo{
+    align-items: center !important;
+}
+
+.search{
+    border: 2px solid #e8e8e8;
+    border-radius: 20px;
+    height: 2.5rem;
+    padding: 0 16px 0 8px;
+    transition: border-color .3s ease-in-out;
+    width: 420px;
+    color: #acacac;
+}
+
+.search:focus-within {
+    border-color: #444;
+}
+
+.search .iconSearch{
+    width: 2rem;
+}
+
+.search .searchInput{
+    border: none;
+    height: 100%;
+    outline: none;
+    padding: 0 4px;
+    flex: 1 1;
+}
+
+.login .btn{
+    list-style: none;
+}
+
+.login .btn-Signin{
+    height: 2.5rem;
+    color: #333;
+    border-radius: 1.5rem;
+    padding: .25rem 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5;
+}
+.login .btn-register{
+    background-color: #fbbd35;
+    height: 2.5rem;
+    color: #ffffff;
+    border-radius: 1.5rem;
+    padding: .25rem 1.25rem;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* header */
+
+.w-1400{
+    max-width: 1400px;
+}
+
+.card{
+    border: none !important;
+}
