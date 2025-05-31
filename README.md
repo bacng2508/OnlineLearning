@@ -3,17 +3,17 @@
 ## Client
 
 **1. Home**
-![Home](demo/Client/home.png)
+![Home!](/demo/Client/home.png)
 
 **2. Course detail**
-![Course detail](demo/Client/Course-detail-1.png)
-![Course detail](demo/Client/Course-detail-2.png)
+![Course detail!](/demo/Client/Course-detail-1.png)
+![Course detail!](/demo/Client/Course-detail-2.png)
 
 **3. Register**
-![Register](/demo/client/Register.png)
+![Register!](/demo/client/Register.png)
 
 **4. Login**
-![Login](/demo/client/login.png)
+![Login!](/demo/client/login.png)
 
 **5. Profile**
 ![Profile](/demo/client/profile.png)
