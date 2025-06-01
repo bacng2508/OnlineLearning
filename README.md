@@ -3,14 +3,14 @@
 ## Client
 
 **1. Home**
-![Home](/demo/Client/home.png)
+![Home](/demo/client/home.png)
 
 **2. Course detail**
-![Course detail](/demo/Client/Course-detail-1.png)
-![Course detail](/demo/Client/Course-detail-2.png)
+![Course detail](/demo/client/course-detail-1.png)
+![Course detail](/demo/client/course-detail-2.png)
 
 **3. Register**
-![Register](/demo/client/Register.png)
+![Register](/demo/client/register.png)
 
 **4. Login**
 ![Login](/demo/client/login.png)
@@ -22,7 +22,7 @@
 ![Shopping cart](/demo/client/cart.png)
 
 **7. Payment**
-![Payment](/demo/client/Payment.png)
+![Payment](/demo/client/payment.png)
 ![Payment](/demo/client/vnpay.png)
 
 **8. My course**
