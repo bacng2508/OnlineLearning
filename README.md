@@ -32,7 +32,7 @@
 ![Learning](/demo/client/learning.png)
 
 **10. Review**
-![Review](/demo/client/Review.png)
+![Review](/demo/client/review.png)
 
 ---
 
